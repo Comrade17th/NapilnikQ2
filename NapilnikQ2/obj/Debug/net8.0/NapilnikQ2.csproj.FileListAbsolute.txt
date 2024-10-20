@@ -1,0 +1,14 @@
+C:\Users\nasusfen\RiderProjects\NapilnikQ2\NapilnikQ2\bin\Debug\net8.0\NapilnikQ2.exe
+C:\Users\nasusfen\RiderProjects\NapilnikQ2\NapilnikQ2\bin\Debug\net8.0\NapilnikQ2.deps.json
+C:\Users\nasusfen\RiderProjects\NapilnikQ2\NapilnikQ2\bin\Debug\net8.0\NapilnikQ2.runtimeconfig.json
+C:\Users\nasusfen\RiderProjects\NapilnikQ2\NapilnikQ2\bin\Debug\net8.0\NapilnikQ2.dll
+C:\Users\nasusfen\RiderProjects\NapilnikQ2\NapilnikQ2\bin\Debug\net8.0\NapilnikQ2.pdb
+C:\Users\nasusfen\RiderProjects\NapilnikQ2\NapilnikQ2\obj\Debug\net8.0\NapilnikQ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasusfen\RiderProjects\NapilnikQ2\NapilnikQ2\obj\Debug\net8.0\NapilnikQ2.AssemblyInfoInputs.cache
+C:\Users\nasusfen\RiderProjects\NapilnikQ2\NapilnikQ2\obj\Debug\net8.0\NapilnikQ2.AssemblyInfo.cs
+C:\Users\nasusfen\RiderProjects\NapilnikQ2\NapilnikQ2\obj\Debug\net8.0\NapilnikQ2.csproj.CoreCompileInputs.cache
+C:\Users\nasusfen\RiderProjects\NapilnikQ2\NapilnikQ2\obj\Debug\net8.0\NapilnikQ2.dll
+C:\Users\nasusfen\RiderProjects\NapilnikQ2\NapilnikQ2\obj\Debug\net8.0\refint\NapilnikQ2.dll
+C:\Users\nasusfen\RiderProjects\NapilnikQ2\NapilnikQ2\obj\Debug\net8.0\NapilnikQ2.pdb
+C:\Users\nasusfen\RiderProjects\NapilnikQ2\NapilnikQ2\obj\Debug\net8.0\NapilnikQ2.genruntimeconfig.cache
+C:\Users\nasusfen\RiderProjects\NapilnikQ2\NapilnikQ2\obj\Debug\net8.0\ref\NapilnikQ2.dll
